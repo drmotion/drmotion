@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-   <p align="left">I'm <a href="https://discord.com/users/841284526654619689">MoTion42!</a>, a young developer from Turkey 🚀</p>
+   <p align="left">I'm <a href="https://discord.com/users/432854313736339466">Mythors!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/841284526654619689" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -22,14 +22,6 @@
    <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-</p>
-<h3 align="left">Discord Status:</h3>
-   <img src="https://discord.c99.nl/widget/theme-3/841284526654619689.png" width="%50" height="100px" alt="stats" />
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoTion42&theme=dark&count_private=true&show_icons=true&hide_border=true" />
-   <img src="https://github-readme-stats.vercel.app/api?username=MoTion42&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%90" height="150px" alt="stats" />
-</p>
 
 
 
