@@ -11,7 +11,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/841284526654619689" target"blank_">Discord</a> or <a href="https://www.instagram.com/motion42.hub/" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/432854313736339466" target"blank_">Discord</a> or <a href="https://www.instagram.com/motion42.hub/" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
