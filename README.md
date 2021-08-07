@@ -3,10 +3,10 @@
    <p align="left">I'm <a href="https://discord.com/users/432854313736339466">Mythors!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/841284526654619689" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCe6LdsGRfKW242ScpG6kZpQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.instagram.com/motion42.hub/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/MoTion42" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://github.com/mythors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
