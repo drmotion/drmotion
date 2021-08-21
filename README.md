@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-   <p align="left">I'm <a href="https://discord.com/users/432854313736339466">Mythors!</a>, a young developer from Turkey 🚀</p>
+   <p align="left">I'm <a href="https://discord.com/users/432854313736339466">MoTion42!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
