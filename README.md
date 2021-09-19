@@ -2,7 +2,7 @@
   MoTion42
 </h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<h3>About me:</h3>
+<h3>📚 About me:</h3>
 <ul>
   <li>🚀 I'm <a href="https://discord.com/users/432854313736339466">MoTion42</a>, a young developer from Azerbaijan!</li>
   <li>🛡️ i am developing discord bots</li>
@@ -32,3 +32,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<h1 align="center" style="color:#fff">
+  
+</h1>
