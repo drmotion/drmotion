@@ -27,9 +27,9 @@
 <h3>Github Stats:</h3>
 
 <p align="left">
-<a href="https://github.com/Just-Msv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Just-Msv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Just-Msv&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/MoTion42">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoTion42&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
