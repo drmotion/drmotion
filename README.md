@@ -24,7 +24,14 @@
    <a href="https://www.instagram.com/motion42.hub/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/MoTion42" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+<h3>Github Stats:</h3>
 
+<p align="left">
+<a href="https://github.com/Just-Msv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Just-Msv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Just-Msv&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
 
 
