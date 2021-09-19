@@ -3,13 +3,6 @@
 </h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
    <p align="left">I'm <a href="https://discord.com/users/432854313736339466">MoTion42!</a>, a young developer from Azerbaijan 🚀</p>
-<h3>My Personal accounts:</h3>
-<p align="left">
-   <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://www.youtube.com/channel/UCe6LdsGRfKW242ScpG6kZpQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://www.instagram.com/motion42.hub/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/MoTion42" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
@@ -24,6 +17,13 @@
    <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<h3>My Personal accounts:</h3>
+<p align="left">
+   <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://www.youtube.com/channel/UCe6LdsGRfKW242ScpG6kZpQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://www.instagram.com/motion42.hub/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/MoTion42" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 
 
