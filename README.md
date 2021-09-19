@@ -1,4 +1,6 @@
-<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h1 align="center" style="color:#fff">
+  MoTion42
+</h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
    <p align="left">I'm <a href="https://discord.com/users/432854313736339466">MoTion42!</a>, a young developer from Azerbaijan 🚀</p>
 <h3>My Personal accounts:</h3>
