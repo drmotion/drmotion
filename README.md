@@ -1,13 +1,13 @@
 <h1 align="center" style="color:#fff">
-  MoTion42
+  Mythors
 </h1>
 <img align='right' src='https://cdn.discordapp.com/attachments/891712958487470170/893015966001266708/flavicon.png' width='200"'>
 <h3>📚 About me:</h3>
 <ul>
-  <li>🚀 I'm <a href="https://discord.com/users/432854313736339466">MoTion42</a>, a young developer from Azerbaijan!</li>
+  <li>🚀 I'm <a href="https://discord.com/users/432854313736339466">Mythors</a>, a young developer from Azerbaijan!</li>
   <li>🛡️ i am developing discord bots</li>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/432854313736339466" target"blank_">Discord</a> or <a href="https://www.instagram.com/motion42.hub/" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/432854313736339466" target"blank_">Discord</a> or <a href="https://www.instagram.com/mythors.dc/" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>🪐 Languages and Tools:</h3>
 <p style="float:right">
@@ -26,14 +26,14 @@
 <p align="left">
    <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCe6LdsGRfKW242ScpG6kZpQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://www.instagram.com/motion42.hub/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/MoTion42" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://www.instagram.com/mythors.dc/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/mythors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>⚙️ Github Stats:</h3>
 
 <p align="left">
-<a href="https://github.com/MoTion42">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mythors">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mythors&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <h1 align="center" style="color:#fff">
