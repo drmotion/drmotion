@@ -24,7 +24,7 @@
 
 <h3>💻 My personal accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/432854313736339466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/invite/javascript" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://www.youtube.com/c/pinkcode" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.instagram.com/mythors.dc/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/mythors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
