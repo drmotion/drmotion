@@ -1,41 +1,127 @@
-<h1 align="center" style="color:#fff">
-  Mythors
-</h1>
-<img align='right' src='https://cdn.discordapp.com/attachments/891712958487470170/893015966001266708/flavicon.png' width='200"'>
-<h3>📚 About me:</h3>
-<ul>
-  <li>🚀 I'm <a href="https://discord.com/users/432854313736339466">Mythors</a>, a young developer from Azerbaijan!</li>
-  <li>🛡️ i am developing discord bots</li>
-  <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/432854313736339466" target"blank_">Discord</a> or <a href="https://www.instagram.com/mythors.dc/" target="_blank">Instagram</a>.</li>
-</ul>
-<h3>🪐 Languages and Tools:</h3>
-<p style="float:right">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="20" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png"></code>
-   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
-   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+- 🌱 I’m currently developing Data Science, Solidity and Web3 projects
+- 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
+- 💬 Ask me about anything from [contact@mythors.xyz](mailto:contact@mythors.xyz), I love to answer!
+- 🌐 You can see my personal website through [here](https://www.mythors.xyz)
 
-<h3>💻 My personal accounts:</h3>
-<p align="left">
-   <a href="https://discord.com/invite/javascript" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://www.youtube.com/c/pinkcode" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://www.instagram.com/mythors.dc/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/mythors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<h3>⚙️ Github Stats:</h3>
 
-<p align="left">
-<a href="https://github.com/mythors">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mythors&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</a>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+  </kbd>
+   <kbd>
+    <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+  </kbd>
+ <kbd>
+  <kbd>Blockchain</kbd>
+   <br>
+  <br>
+  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+ </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd>
+  <br>
+  <br>
+  <kbd>
+    <kbd>Data Science & AI</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  </kbd>
+ 
+  <kbd>
+    <kbd>System, Networking & Deployment</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
+  </kbd>
+   <kbd>
+    <kbd>Game Development</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  </kbd>
 </p>
-<h1 align="center" style="color:#fff">
-  
-</h1>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--
+[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+-->
+<h2 align="center">Now Playing (Discord)</h2>
+<p align="center">
+<br>
+<div align="center">
+   <a href="https://discord.com/users/432854313736339466" target="_blank">
+<img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?theme=light&bg=black&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else%22%3E"</img>
+   </a>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mythors&theme=holi-theme">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mythors&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythors&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+</p>
+  </a>
+</p>
+
+
+
+
