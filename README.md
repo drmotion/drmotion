@@ -111,9 +111,8 @@
 <br>
 <div align="center">
    <a href="https://discord.com/users/432854313736339466" target="_blank">
-<img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?theme=light&bg=orange&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else%22%3E"</img>
+      <img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
    </a>
-  </a>
 </p>
 
 
