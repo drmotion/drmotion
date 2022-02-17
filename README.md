@@ -113,10 +113,6 @@
    <a href="https://discord.com/users/432854313736339466" target="_blank">
 <img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?theme=light&bg=gray&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else%22%3E"</img>
    </a>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythors&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-</p>
   </a>
 </p>
 
