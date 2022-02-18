@@ -111,7 +111,7 @@
 <br>
 <div align="center">
    <a href="https://discord.com/users/432854313736339466" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?theme=light&bg=1f1f1f&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else">
+      <img src="https://lanyard-profile-readme.vercel.app/api/432854313736339466?username=mythors&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
    </a>
 </p>
 
